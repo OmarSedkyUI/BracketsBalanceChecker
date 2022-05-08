@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\College\GitHub\BracketsBalanceChecker\BracketsBalanceChecker\Source.cpp(11,20): warning C4018: '<': signed/unsigned mismatch
+  BracketsBalanceChecker.vcxproj -> D:\College\GitHub\BracketsBalanceChecker\Debug\BracketsBalanceChecker.exe
